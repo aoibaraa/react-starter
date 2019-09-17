@@ -1,4 +1,4 @@
-import React from 'React';
+import React from 'react';
 import styles from './Column.scss';
 import PropTypes from 'prop-types';
 import Card from '../Card/Card.js';
